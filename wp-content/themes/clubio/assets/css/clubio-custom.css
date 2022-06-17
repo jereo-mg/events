@@ -783,7 +783,7 @@ p.return-to-shop,
     display: flex;
     padding-top:10px
 }
-.prd-sm:not(: last-child) {
+.prd-sm:not(:last-child) {
     margin-bottom: 20px;
 }
 .prd-sm-img {
