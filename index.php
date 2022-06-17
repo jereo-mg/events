@@ -1,7 +1,8 @@
 <?php 
 
 // const BASE_URL = "https://clubio.softali.net/wp/demo/";
-const BASE_URL = "http://localhost:8000/";
+// const BASE_URL = "http://localhost:8000/";
+const BASE_URL = "https://jereo-mg.github.io/events/";
 
 ?>
 <!DOCTYPE html>
