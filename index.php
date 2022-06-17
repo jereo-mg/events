@@ -689,7 +689,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp\/demo\/wp-admin\/admin-ajax.php","
             </filter>
         </defs>
     </svg>
-    <div class="pre-loader">
+    <!-- <div class="pre-loader">
         <div class="sk-fading-circle">
             <div class="sk-circle1 sk-circle"></div>
             <div class="sk-circle2 sk-circle"></div>
@@ -704,7 +704,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp\/demo\/wp-admin\/admin-ajax.php","
             <div class="sk-circle11 sk-circle"></div>
             <div class="sk-circle12 sk-circle"></div>
         </div>
-    </div>
+    </div> -->
     <nav class="panel-menu" id="mobile-menu">
         <ul></ul>
         <div class="mm-navbtn-names">
